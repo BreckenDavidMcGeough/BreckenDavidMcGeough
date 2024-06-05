@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=breckendavidmcgeough" alt="breckendavidmcgeough" /></a> </p>
 
-- 🔭 I’m currently working on [Computer Networking PA2](https://github.com/UB-CSE4589/pa2-breckenm-pa2)
+- 🔭 I’m currently working on **2d simulation of geodesics in Schwarzschild Spacetime**
 
-- 🌱 I’m currently learning **Algebraic Topology, Computer Networking and Socket Programming**
+- 🌱 I’m currently learning **Algebraic Topology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BreckenDavidMcGeough?tab=repositories](https://github.com/BreckenDavidMcGeough?tab=repositories)
 
-- 💬 Ask me about **Algorithms and Data Structures, Algorithm Analysis and Design, Complexity Theory, Algorithm Correctness/Efficiency Proofs, Graph Theory, Computer Networking and Socket Programming, Machine Learning and Statistical Modeling and Neural Network Architecture, Quantum Computing Algorithms**
+- 💬 Ask me about **Algorithms and Data Structures, Algorithm Analysis and Design, Complexity Theory, Graph Theory, Computer Networking and Socket Programming, Machine Learning and Statistical Modeling, Neural Network Architecture, Quantum Computing Algorithms**
 
 - 📫 How to reach me **breckmcg@gmail.com**
 
-- ⚡ Fun fact **I love problem solving**
+- ⚡ Fun fact **I love the outdoors and will frequently hike.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
