@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love the outdoors and will frequently hike.**
 
-- Please view my starred projects list to see my favorite projects I have created!
+- Please view my starred projects list to check out some of my favorite creations!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
