@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Algebraic Topology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BreckenDavidMcGeough?tab=repositories](https://github.com/BreckenDavidMcGeough?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/BreckenDavidMcGeough?tab=stars](https://github.com/BreckenDavidMcGeough?tab=stars)
 
 - 💬 Ask me about **Algorithms and Data Structures, Algorithm Analysis and Design, Complexity Theory, Graph Theory, Computer Networking and Socket Programming, Machine Learning and Statistical Modeling, Neural Network Architecture, Quantum Computing Algorithms**
 
